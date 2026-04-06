@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Oii! Eu sou a Giovanna Souza</h1>
 
-<!--
-**giovannsouza/giovannsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Engenharia de Software • Desenvolvedora Front-end em formação 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
+</div>
+
+---
+
+### 👩‍💻 Sobre mim
+
+- 🎓 Estudante de **Engenharia de Software (2º semestre)**
+- 💻 Desenvolvedora **Front-end em formação**
+- 📚 Interesse em desenvolvimento web e interfaces
+- 💼 Buscando **estágio, vaga júnior ou aprendiz em TI**
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/giovanna-matos-de-souza/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giovannsouza&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giovannsouza&theme=dracula" height="150" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giovannsouza/giovannsouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giovannsouza/giovannsouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giovannsouza/giovannsouza/output/pacman-contribution-graph.svg">
+</picture>
