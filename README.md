@@ -38,7 +38,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovannsouza&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=giovannsouza&theme=dracula" height="150" />
 </div>
 
